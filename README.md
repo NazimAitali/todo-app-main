@@ -30,10 +30,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/NazimAitali/rock-paper-scissors-master-solution/blob/master/screenshot-desktop-light.jpg)
-![](https://github.com/NazimAitali/rock-paper-scissors-master-solution/blob/master/screenshot-desktop-dark.jpg)
-![](https://github.com/NazimAitali/rock-paper-scissors-master-solution/blob/master/screenshot-mobile-light.jpg)
-![](https://github.com/NazimAitali/rock-paper-scissors-master-solution/blob/master/screenshot-mobile-dark.jpg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-desktop-light.jpg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-desktop-dark.jpg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-mobile-light.jpg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-mobile-dark.jpg)
 
 ### Links
 
