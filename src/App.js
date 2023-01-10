@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import { useState } from "react";
+import { ThemeProvider } from "styled-components";
+import GlobalStyles from "./styles/Global";
+import { theme, themeDark } from "./styles/theme";
+import { Container } from "./styles/Container";
+import Screen from "./Screen";
 function App() {
+  const [Dark, setDark] = useState(false);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={!Dark ? theme : themeDark}>
+      <>
+        <GlobalStyles />
+        <Container Dark={Dark}>
+          <Screen setDark={setDark} Dark={Dark} />
+        </Container>
+      </>
+    </ThemeProvider>
   );
 }
 
