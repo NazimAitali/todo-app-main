@@ -30,10 +30,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-desktop-light.jpg)
-![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-desktop-dark.jpg)
-![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-mobile-light.jpg)
-![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-mobile-dark.jpg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-desktop-light.jpeg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-desktop-dark.jpeg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-mobile-light.jpeg)
+![](https://github.com/NazimAitali/todo-app-main/blob/master/screenshot-mobile-dark.jpeg)
 
 ### Links
 
